@@ -1,0 +1,14 @@
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "tsc && node src/js/index.js"
+  },
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}
